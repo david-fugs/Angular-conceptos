@@ -1,0 +1,8 @@
+npm install -g @angular/cli
+
+ng new angular-17-app
+
+ng serve --open //abre el navegador de una vez
+
+crear un cpmponente en la terminal:
+ng generate coomponent user
